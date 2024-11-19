@@ -2,6 +2,7 @@
   "mappings": [
     "/content/jck2/:/",
     "/content/jck2/configuration:/.helix/config.json",
+    "/content/jck2/spreadsheet:/spreadsheet.json",
     "/content/jck2/metadata:/metadata.json"
   ],
   "includes": [
