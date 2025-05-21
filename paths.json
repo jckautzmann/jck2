@@ -6,6 +6,7 @@
     "/content/jck2/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/jck2/"
+    "/content/jck2/",
+    "/content/dam/jck2/"
   ]
 }
